@@ -11,7 +11,7 @@ Jisoo Kim | Frontend Developer🚀
 <p>✔️ I always value the 'why'.</p>
 
 ## My skills
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zi9ooJJ&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zi9ooJJ&layout=compact&theme=shadow_green&hide_border=true&hide=ipynb,Jupyter Notebook" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zi9ooJJ&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zi9ooJJ&layout=compact&theme=shadow_green&hide_border=true&hide=jupyter%20notebook" /> |
 | ------------- | ------------- |
 
 ### I work with...
