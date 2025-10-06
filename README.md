@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">
-Jisoo Kim | Frontend Developer🚀
+Jisoo Kim | Software Quality Assurance Engineer🚀
 </h1>
-<h3>Hi, I'm Jisoo Kim, a developer who makes question marks into exclamation points.</h3>
+<h3>Hi, I'm Jisoo Kim, a QA Engineer who makes question marks into exclamation points.</h3>
 <p>✔️ I don't mind taking on new knowledge.</p>
 <p>✔️ I'm not afraid to ask questions about things I don't know.</p>
 <p>✔️ I always value the 'why'.</p>
