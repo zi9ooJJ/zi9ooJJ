@@ -14,7 +14,9 @@ Jisoo Kim | Software Quality Assurance Engineer🚀
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=zi9ooJJ&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zi9ooJJ&layout=compact&theme=shadow_green&hide_border=true&hide=jupyter%20notebook" /> |
 | ------------- | ------------- |
 
+<!-- 주석처리
 ### I work with...
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/scss-CC6699?style=flat-square&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 <br />
 <br />
+-->
